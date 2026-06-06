@@ -52,6 +52,17 @@ Total Parameters: **1,626,442**
 
 ---
 
+## Model Performance
+
+| Metric | Value |
+|----------|---------|
+| Training Accuracy | 84.75% |
+| Validation Accuracy | 84.87% |
+| Training Loss | 0.3599 |
+| Validation Loss | 0.3469 |
+
+---
+
 ## Sample Predictions
 
 ### Cat Prediction
