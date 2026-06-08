@@ -187,7 +187,7 @@ dog-vs-cat-cnn-classification/
 │
 ├── logs/
 │   └── log.csv
-││
+│
 ├── requirements.txt
 ├── README.md
 └── .gitignore
